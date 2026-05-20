@@ -8,13 +8,13 @@ $$
 WinPct = \frac{RS^\gamma}{RS^\gamma + RA^\gamma}
 $$
 
-Dividindo numerador e denominador por \(RS^\gamma\), obtemos a forma equivalente usada no código:
+Dividindo numerador e denominador por $RS^\gamma$, obtemos a forma equivalente usada no código:
 
 $$
 WinPct = \frac{1}{1 + (RA/RS)^\gamma}
 $$
 
-O objetivo do projeto é estimar o melhor valor de \(\gamma\) e comparar três versões da fórmula:
+O objetivo do projeto é estimar o melhor valor de $\gamma$ e comparar três versões da fórmula:
 
 - $\gamma = 2.00$, a versão pitagórica original;
 - $\gamma = 1.83$, valor usado pelo Baseball-Reference;
